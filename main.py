@@ -1,3 +1,6 @@
+# Optical Flow feature points tracking
+# by Bo Lei
+
 import numpy as np
 import cv2
 
